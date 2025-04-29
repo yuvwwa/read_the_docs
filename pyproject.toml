@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "test_the_docs_yulya"
+version = "0.1.0"
+description = "Документация к проекту test_the_docs_yulya"
+authors = [{name = "Yulia Kravtsova", email = "yuvwwa@gmail.com"}]
+readme = "README.rst"
+requires-python = ">=3.7"
